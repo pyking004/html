@@ -1,0 +1,51 @@
+List of HTML Tags
+=====================
+html,head,meta,title,body
+
+h1,h2,h3,h4,h5,h6
+
+br,hr
+
+a(href,target)
+
+p,pre,article
+
+u,ins,i,em,b,strong
+del,strike,sup,sub
+mark,span,marquee
+abbr,bdo
+
+list Tags
+===========
+ul,ol,dl,dt,dd,li
+
+image Tags
+==========
+img(src,alt,width,height)
+
+header,menu,nav,aside,section,main,footer
+
+table Tags
+===============
+table,th,tr,td,thead,tbody,tfoot,caption
+
+forms
+=====
+form,lable
+
+input fields
+=================
+text,email,number,tel,password,radio,checkbox,
+date,datetime,datetime-local,month,week,time
+file,url,range,color,hidden,
+submit,reset,button,image
+
+script
+
+select(option,optg)
+
+textarea
+
+
+
+
